@@ -71,7 +71,7 @@ jobs:
           aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_session_token: ${{ secrets.AWS_SESSION_TOKEN }}
           region: us-east-1
-          application_name: Hogwarts
+          application_name: HogwartsIker
           environment_name: HogwartsIker-env
           version_label: "banco-v-${{ github.run_number }}"
           deployment_package: docker-compose.yml
