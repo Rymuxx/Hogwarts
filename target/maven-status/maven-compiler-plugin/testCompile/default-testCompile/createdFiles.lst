@@ -1,0 +1,5 @@
+org\accesodatos\hogwarts\controller\EstudianteControllerTest.class
+org\accesodatos\hogwarts\controller\AsignaturaControllerTest.class
+org\accesodatos\hogwarts\HogwartsApplicationTests.class
+org\accesodatos\hogwarts\service\EstudianteServiceTest.class
+org\accesodatos\hogwarts\repository\EstudianteRepositoryIntegrationTest.class
