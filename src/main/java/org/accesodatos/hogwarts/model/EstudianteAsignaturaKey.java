@@ -13,3 +13,4 @@ public class EstudianteAsignaturaKey implements Serializable {
     @Column(name = "id_asignatura")
     private int idAsignatura;
 }
+
